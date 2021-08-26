@@ -1,0 +1,7 @@
+  <Post
+                     key={id}
+                     name={name}
+                     description={description}
+                     message={message}
+                     photoUrl={photoUrl}
+                />
